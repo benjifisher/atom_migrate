@@ -2,8 +2,14 @@
 
 This repository contains sample code to accompany my blog post
 **Importing an Atom Feed with the Drupal 8 Migrate API and Paragraphs**
+
 - [Part 1](https://www.isovera.com/blog/importing-atom-feed-drupal-8-migrate-api-and-paragraphs-part-1)
 - [Part 2](https://www.isovera.com/blog/importing-atom-feed-drupal-8-migrate-api-and-paragraphs-part-2)
+
+Those links are now broken, but the posts are available on Medium:
+
+- [Part 1](https://medium.com/isovera/importing-an-atom-feed-with-the-drupal-8-migrate-api-and-paragraphs-part-1-9dcd7151d41a)
+- [Part 2](https://medium.com/isovera/importing-an-atom-feed-with-the-drupal-8-migrate-api-and-paragraphs-part-2-2a666fed265f)
 
 ## Disclaimer
 
